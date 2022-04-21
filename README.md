@@ -1,6 +1,6 @@
 # Movie Finder
 
-Website - <a href="https://kevinnadar22.github.io/T2linksMovie/">T2links Movie Finder</a>
+<b>Website - <a href="https://kevinnadar22.github.io/T2linksMovie/">T2links Movie Finder</a></b>
 
 <p align="center">
   <a href="https://github.com/T2Links/Droplink-Movie-Finder/stargazers">
