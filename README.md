@@ -1,6 +1,6 @@
 # Movie Finder
 
-## <b>Website - <a href="https://kevinnadar22.github.io/T2linksMovie/">T2links Movie Finder</a></b>
+## <b>Website - <a href="https://t2links.github.io/Droplink-Movie-Finder/">T2links Movie Finder</a></b>
 
 <p align="center">
   <a href="https://github.com/T2Links/Droplink-Movie-Finder/stargazers">
@@ -20,7 +20,7 @@ __A Website Where You Can Find Movies in Droplink Format__
 
 **__How To Use Me!?__**
 
-* -> Search for your Movie in [T2links Movie Finder](https://kevinnadar22.github.io/T2linksMovie/) with correct spelling
+* -> Search for your Movie in [T2links Movie Finder](https://t2links.github.io/Droplink-Movie-Finder/) with correct spelling
 * -> For YEAR wise movies, type the year. EG: 2016. (You will get all the available movies in 2016)
 
 
