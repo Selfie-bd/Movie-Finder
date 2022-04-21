@@ -19,7 +19,7 @@ __A Website Where You Can Find Movies in Droplink Format__
 **__How To Use Me!?__**
 
 * -> Search for your Movie in [T2links Movie Finder](https://kevinnadar22.github.io/T2linksMovie/) with correct spelling
-* -> For YEAR wise movies, type the year. EG: 2016. (You will get all the available in 2016)
+* -> For YEAR wise movies, type the year. EG: 2016. (You will get all the available movies in 2016)
 
 
 
