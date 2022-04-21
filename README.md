@@ -29,7 +29,7 @@ __A Website Where You Can Find Movies in Droplink Format__
 Contact Our [DEV](https://www.telegram.dog/ask_admin001) For Support/Assistance    
    
 Report Bugs, Give Feature Requests There..   
-Do Fork And Star The Repository If You Liked It.
+Do Fork And Star The Repository If You Liked It
 
 ## Disclaimer
 [![GNU Affero General Public License v3.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
