@@ -27,7 +27,7 @@ function linkify(inputText) {
     replacedText = replacedText.replace(replacePattern2, '$1<a href="http://$2" target="_blank">Link</a>');
 
     // Replace URL starting with t.me
-    replacePattern3 = /t.me\/T2linksAnnc\/[0-9]/;
+    replacePattern3 = /t.me\/HdFlimZ\/[0-9]/;
     let result = replacedText.match(replacePattern3)
 
     if (result != null) {
